@@ -5,6 +5,11 @@ const precosLivros = [
     },
 
     {
+        titulo: "Prisma",
+        preco: 55
+    },
+
+    {
         titulo: "PHP",
         preco: 30
     },
@@ -15,7 +20,7 @@ const precosLivros = [
     },
 
     {
-        titulo: "Prisma",
+        titulo: "GraphQL",
         preco: 50
     },
 

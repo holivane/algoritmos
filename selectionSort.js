@@ -7,7 +7,6 @@ while (atual < livros.length) {
     let menor = menorValor(livros, atual)
     let livroAtual = livros[atual]
     let livroMenorPreco = livros[menor]
-    console.log (livros)
 
     livros[atual] = livroMenorPreco
     livros[menor] = livroAtual
